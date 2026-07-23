@@ -1,4 +1,4 @@
 opencv-python==4.12.0.88
 numpy==2.3.2
 imutils==0.5.4
-pygame==2.6.1pip install -r requirements.txt
+pygame==2.6.1
